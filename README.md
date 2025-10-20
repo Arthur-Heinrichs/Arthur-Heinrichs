@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Heinrichs&layout=compact)
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-10-20`
+*Atualizado manualmente desde:* `2025-10-20`
 
 ## :book: Sobre mim
 - 💼 Análise de dados, Itaú
