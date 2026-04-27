@@ -11,8 +11,9 @@
 - 🇺🇸 English TOEIC B2
 - 🎬 I'm passionate about cinema and do projects of my own on my free time.
   
-Some of my projects
-    💻 
+Some of my projects    💻 
+<br>
+
 -Cinema market analytics with data from TMDB API [**→ Access**](https://github.com/Arthur-Heinrichs/projeto_analise_filmes)
 <br>
 #Python #Streamlit #Pyplot #Pandas
