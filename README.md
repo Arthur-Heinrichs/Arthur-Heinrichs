@@ -13,11 +13,11 @@
   
 Some of my projects
     💻 
--Cinema market analytics with data from TMDB API [**→ Acessar**](https://github.com/Arthur-Heinrichs/projeto_analise_filmes)
+-Cinema market analytics with data from TMDB API [**→ Access**](https://github.com/Arthur-Heinrichs/projeto_analise_filmes)
 <br>
 #Python #Streamlit #Pyplot #Pandas
 
--European Union Trade in Goods and Services analysis  [**→ Acessar**](https://github.com/Arthur-Heinrichs/projeto_analise_filmes)
+-European Union Trade in Goods and Services analysis  [**→ Acccess**](https://github.com/Arthur-Heinrichs/projeto_analise_filmes)
 <br>
 #Python #Power BI #Pandas #Kaggle
 
